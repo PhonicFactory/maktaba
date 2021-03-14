@@ -1,2 +1,2 @@
-# maktaba
-A library for AMP Stories
+# Maktaba
+A library for tappable stories
